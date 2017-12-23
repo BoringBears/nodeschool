@@ -1,0 +1,2 @@
+var a = 123456789;
+console.log(a);
